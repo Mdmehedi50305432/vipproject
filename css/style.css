@@ -1,0 +1,21 @@
+.about{
+    background-color: rgb(30, 94, 179);
+    color: black
+}
+
+.ab{
+    margin: 40px;
+}
+
+.progress{
+    margin: 20px !important;
+}
+
+.bio{
+    background-color: rgb(226, 94, 94);
+    color: rgb(155, 18, 18);
+    width: 23%;
+  }
+a{
+    color: rgb(192, 204, 29);
+}
